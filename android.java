@@ -1,4 +1,4 @@
-import println // ??
+import Java.support.println // ??
 
 public static class ReleaseTest {
 	public void smart() {
